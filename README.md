@@ -1,2 +1,2 @@
-# bioinformatics-data-analyse
+# Bioinformatics Data Analysis
 For all practicals and projects
